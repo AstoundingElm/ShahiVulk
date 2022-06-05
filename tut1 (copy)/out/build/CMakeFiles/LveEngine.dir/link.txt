@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/LveEngine.dir/src/main.c.o CMakeFiles/LveEngine.dir/src/tut1.c.o CMakeFiles/LveEngine.dir/src/tut1_error.c.o -o LveEngine  /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libvulkan.so 
