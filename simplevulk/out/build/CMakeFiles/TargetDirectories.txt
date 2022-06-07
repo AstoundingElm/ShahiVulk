@@ -1,0 +1,4 @@
+/home/peter/Desktop/simplevulk/out/build/CMakeFiles/LveEngine.dir
+/home/peter/Desktop/simplevulk/out/build/CMakeFiles/Shaders.dir
+/home/peter/Desktop/simplevulk/out/build/CMakeFiles/edit_cache.dir
+/home/peter/Desktop/simplevulk/out/build/CMakeFiles/rebuild_cache.dir
